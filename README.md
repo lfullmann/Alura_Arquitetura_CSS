@@ -1,1 +1,2 @@
-# Alura_Arquitetura_CSS
+# arquitetura-css
+curso de arquitetura da Alura. 
